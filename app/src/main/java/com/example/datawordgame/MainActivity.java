@@ -21,7 +21,7 @@ import java.util.Collections;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    private String[] words = {"enormity", "literally", "colonel", "lieutenant", "unabashed", "alcoholic"};
+    private String[] words = {"hello", "morning", "fine", "good", "high", "damn"};
     private EditText etWord;
     SharedPreferences sharedPreferences;
     private RecyclerView recyclerView;
