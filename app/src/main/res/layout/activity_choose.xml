@@ -9,17 +9,23 @@
 
     <Button
         android:id="@+id/word"
+        android:background="@drawable/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Word Game"
         android:textSize="30sp"
-        android:layout_margin="20dp"/>
+        android:textColor="#FFF"
+        android:layout_margin="20dp"
+        android:padding="10dp"/>
 
     <Button
         android:id="@+id/std"
+        android:background="@drawable/btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Student Detail"
         android:textSize="30sp"
-        android:layout_margin="20dp"/>
+        android:textColor="#FFF"
+        android:layout_margin="20dp"
+        android:padding="10dp"/>
 </LinearLayout>
